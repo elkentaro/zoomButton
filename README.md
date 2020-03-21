@@ -18,3 +18,12 @@ https://www.pjrc.com/teensy/loader.html
 
 4.Flash Teensy with code.
 
+Based on some thrown together code from the
+WS2812Serial example and Button example.
+
+Stickers by 
+
+1. I void Warranties for a living. by @jilles_com https://twitter.com/jilles_com
+2. Safety Third. by @Stickerum https://twitter.com/Stickerum
+
+
