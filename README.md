@@ -26,4 +26,10 @@ Stickers by
 1. I void Warranties for a living. by @jilles_com https://twitter.com/jilles_com
 2. Safety Third. by @Stickerum https://twitter.com/Stickerum
 
+Caveat:
+Start with zoom mic unmuted. for the color codes.
+It just switches states. 
+
+Start zoom muted -> "muted" is Green.
+Start zoom unmuted -> "muted" is Red.
 
