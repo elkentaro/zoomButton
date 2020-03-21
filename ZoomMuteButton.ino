@@ -77,12 +77,16 @@ void loop() {
   
   if (button.fallingEdge()) {
 
+     
+// for Zoom shortcut to mute/unmute is modifier Key + "A" depending on the operating system.
 
 Keyboard.set_modifier(MODIFIERKEY_GUI | MODIFIERKEY_SHIFT);  // For Mac , Command Key
 //  Keyboard.set_modifier(MODIFIERKEY_ALT); // Windows , ALT Key   
+     
+     
   Keyboard.press(KEY_A);
   Keyboard.release(KEY_A);  
-  Keyboard.set_modifier(0);
+  Keyboard.set_modifier(0); //releasing the modifier key.
   Keyboard.send_now();
   
 
