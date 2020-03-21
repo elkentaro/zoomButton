@@ -24,6 +24,8 @@ DMAMEM byte displayMemory[numled*12]; // 12 bytes per LED
 
 WS2812Serial leds(numled, displayMemory, drawingMemory, pin, WS2812_GRB);
 
+// see WS2812Serial example for more color codes.
+
 #define RED    0xFF0000
 #define GREEN  0x001600
 
