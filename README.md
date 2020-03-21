@@ -1,6 +1,7 @@
 # zoomButton
 Simple emergency mute/unmute for zoom meeting button 
-
+Based on some thrown together code from the
+WS2812Serial example and Button example.
 
 Parts.
 
@@ -10,16 +11,16 @@ Parts.
 
 
 Build steps.
-1.Solder the GND and Pin 4 on the Teensy to the button.
-2. Solder GND, 5V and Pin 20 on the Teensy to the neopixels.
 
-3.Download the Teensy Loader.
-https://www.pjrc.com/teensy/loader.html
+  1.Solder the GND and Pin 4 on the Teensy to the button.
 
-4.Flash Teensy with code.
+  2. Solder GND, 5V and Pin 20 on the Teensy to the neopixels.
 
-Based on some thrown together code from the
-WS2812Serial example and Button example.
+  3.Download the Teensy Loader.
+  https://www.pjrc.com/teensy/loader.html
+
+  4.Flash Teensy with code.
+
 
 Stickers by 
 
