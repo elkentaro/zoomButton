@@ -31,7 +31,7 @@ It just switches states.
 Start zoom muted -> "muted" is Green.  
 Start zoom unmuted -> "muted" is Red. 
 
-The button only sends a single key combo. (you can edit it to send it more).
+The button only sends a single key combo. (you can edit it to send more, but zoom only alternates between states and you cannot assing key codes per function. ie: One combination to mute, another to unmute. = both have to be the same key code).
 
 Here are the shortcuts for Zoom Meetings :  
 https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom  
