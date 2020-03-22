@@ -31,3 +31,11 @@ It just switches states.
 Start zoom muted -> "muted" is Green.  
 Start zoom unmuted -> "muted" is Red. 
 
+The button only sends a single key combo. (you can edit it to send it more).
+
+Here are the shortcuts for Zoom Meetings :
+https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom
+
+For keycodes to send via the Teensy: 
+https://www.pjrc.com/teensy/td_keyboard.html
+
