@@ -105,8 +105,6 @@ Keyboard.set_modifier(MODIFIERKEY_GUI | MODIFIERKEY_SHIFT);  // For Mac , Comman
   //          to high (not pressed - voltage from pullup resistor)
   if (button.risingEdge()) {
     
-    Keyboard.println("Up");
-    Keyboard.println(LED_status);
 
         if (LED_status < 1){
    colorWipe(GREEN, microsec);
